@@ -383,8 +383,6 @@ namespace ClosedXML.Excel
 
         IXLChart Chart(Int32 index);
         
-        //IXLCharts Charts { get; }
-
         Boolean ShowFormulas { get; set; }
 
         Boolean ShowGridLines { get; set; }
